@@ -2,6 +2,7 @@
 
 Your contributions are always welcome!
 
+Bitte sende Email an : reto@dimidiatus.ch
 ## Guidelines
 
 * Add one link per Pull Request.
